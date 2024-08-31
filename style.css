@@ -194,25 +194,9 @@ nav i{
     padding: 1vw 2vw;
 }
 
-#cocacola{
-    top: -15%;
-    position: absolute;
-    width: 60%;
-    left: 50%;
-    transform: translate(-50%, 0%);
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
 
-}
 
-#pepsi{
-    top: -15%;
-    position: absolute;
-    width: 85%;
-    left: 50%;
-    transform: translate(-50%, 0%);
-    transition: all cubic-bezier(0.19, 1, 0.22, 1)0.5s;
 
-}
 
 .lemon{
     top: -30%;
